@@ -1,3 +1,4 @@
-div {
-    padding: 10px;
-}
+[class^="col-"] {
+    padding: 1em;
+  }
+ 
